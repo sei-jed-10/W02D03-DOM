@@ -2,7 +2,7 @@
 
 ## DOM Detective
 
-Open up [Girl Develop It](https://www.girldevelopit.com/) in Chrome or Firefox, and open up the JavaScript console (CMD + Option + J on Macs).
+Open up [Girl Develop It](https://www.girldevelopit.com/) in Chrome or Firefox, and open up the JavaScript console (CMD + Option + J on Macs)
 
 Use DOM access methods (e.g. `document.querySelector`) to find the following parts of the page. You probably first want to use Inspect Element to figure out what their tag names, classes, and IDs are.
 
