@@ -9,19 +9,11 @@ Today we're going to learn all about the browsers native document object model.
 By the end of this, developers should be able to:
 
 - Know how to use the DOM.
-- Reference DOM documentation when learning a new API.
 - After selecting a DOM node, reach another node using traversal.
 - Get data from the DOM.
 - Put data into the DOM.
 - Create new elements and insert them into the DOM.
 - Use event listeners and handlers for user interaction.
-- Animate elements using JavaScript.
-
-## Preparation
-
-1. Fork and clone
-2. Create a new branch, `training`, for your work and change into it.
-3. Create a new `code` directory with a sub-directory named `playground` and `cd` into it.
 
 ## Slides
 
