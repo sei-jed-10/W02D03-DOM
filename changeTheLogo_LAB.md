@@ -1,6 +1,6 @@
 # Lab: The DOM
 
-## Change the Logo!
+## Change the Logo!!
 
 No homepage is safe from the logo bandit!
 
